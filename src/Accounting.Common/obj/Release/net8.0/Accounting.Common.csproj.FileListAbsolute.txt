@@ -1,0 +1,13 @@
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\bin\Release\net8.0\Accounting.Common.deps.json
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\bin\Release\net8.0\Accounting.Common.runtimeconfig.json
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\bin\Release\net8.0\Accounting.Common.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\bin\Release\net8.0\Accounting.Common.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.AssemblyInfoInputs.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.AssemblyInfo.cs
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.csproj.CoreCompileInputs.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\refint\Accounting.Common.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\Accounting.Common.genruntimeconfig.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Common\obj\Release\net8.0\ref\Accounting.Common.dll

@@ -1,0 +1,5 @@
+[
+  { "account": "4000-Revenue", "amount": 1000.00, "desc": "Sale" },
+  { "account": "2100-Tax", "amount": 180.00, "desc": "Tax" }
+]
+

@@ -1,0 +1,17 @@
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\bin\Release\net8.0\Accounting.Infrastructure.deps.json
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\bin\Release\net8.0\Accounting.Infrastructure.runtimeconfig.json
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\bin\Release\net8.0\Accounting.Infrastructure.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\bin\Release\net8.0\Accounting.Infrastructure.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\bin\Release\net8.0\Accounting.Common.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\bin\Release\net8.0\Accounting.Common.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.csproj.AssemblyReference.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.AssemblyInfoInputs.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.AssemblyInfo.cs
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.csproj.CoreCompileInputs.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounti.A036F2E3.Up2Date
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\refint\Accounting.Infrastructure.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\Accounting.Infrastructure.genruntimeconfig.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.Infrastructure\obj\Release\net8.0\ref\Accounting.Infrastructure.dll

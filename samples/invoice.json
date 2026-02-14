@@ -1,0 +1,12 @@
+{
+  "type": "invoice",
+  "invoiceId": "INV-123",
+  "date": "2026-02-12",
+  "customerAccount": "1100-AccountsReceivable",
+  "total": 1180.00,
+  "lines": [
+    { "account": "4000-Revenue", "amount": 1000.00, "desc": "Sale" }
+  ],
+  "taxAccount": "2100-Tax"
+}
+

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZNSBJewXq0=",
+  "success": true,
+  "projectFilePath": "D:\\0 - BACKUP PASTA USUARIO 17-10-24\\Documents\\roteiro_contabil\\src\\Accounting.IngestLambda\\Accounting.IngestLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucka\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.3\\amazon.lambda.apigatewayevents.2.7.3.nupkg.sha512",
+    "C:\\Users\\Lucka\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lucka\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\Lucka\\.nuget\\packages\\awssdk.core\\3.7.11.15\\awssdk.core.3.7.11.15.nupkg.sha512",
+    "C:\\Users\\Lucka\\.nuget\\packages\\awssdk.sqs\\3.7.2.68\\awssdk.sqs.3.7.2.68.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\bin\Release\net8.0\linux-x64\Accounting.IngestLambda.deps.json
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\bin\Release\net8.0\linux-x64\Accounting.IngestLambda.runtimeconfig.json
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\bin\Release\net8.0\linux-x64\Accounting.IngestLambda.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\bin\Release\net8.0\linux-x64\Accounting.IngestLambda.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\bin\Release\net8.0\linux-x64\Accounting.Common.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\bin\Release\net8.0\linux-x64\Accounting.Common.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.csproj.AssemblyReference.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.AssemblyInfoInputs.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.AssemblyInfo.cs
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.csproj.CoreCompileInputs.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounti.EFF214D0.Up2Date
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\refint\Accounting.IngestLambda.dll
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.pdb
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\Accounting.IngestLambda.genruntimeconfig.cache
+D:\0 - BACKUP PASTA USUARIO 17-10-24\Documents\roteiro_contabil\src\Accounting.IngestLambda\obj\Release\net8.0\linux-x64\ref\Accounting.IngestLambda.dll
