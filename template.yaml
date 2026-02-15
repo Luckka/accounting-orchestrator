@@ -195,6 +195,48 @@ Resources:
             Queue: !GetAtt AccountingQueue.Arn
             BatchSize: 5
 
+  QueryLambdaRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service:
+                - lambda.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+      Policies:
+        - PolicyName: QueryDDB
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: Allow
+                Action:
+                  - dynamodb:Query
+                Resource:
+                  - !GetAtt AccountingTable.Arn
+                  - !Sub ${AccountingTable.Arn}/index/BatchId-index
+
+  QueryFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: query-lambda
+      CodeUri: src/Accounting.QueryLambda/
+      Handler: Accounting.QueryLambda::Accounting.QueryLambda.Function::Handler
+      Role: !GetAtt QueryLambdaRole.Arn
+      Environment:
+        Variables:
+          DDB_TABLE: !Ref AccountingTable
+      Events:
+        ApiGetEntries:
+          Type: Api
+          Properties:
+            Path: /entries/{batchId}
+            Method: get
+
   ScheduledRule:
     Type: AWS::Events::Rule
     Properties:

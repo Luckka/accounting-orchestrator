@@ -8,5 +8,6 @@ public interface IAccountingRepository
 {
     Task SaveEntryAsync(AccountingEntry entry);
     Task SaveEntriesAsync(IEnumerable<AccountingEntry> entries);
+    Task<IEnumerable<AccountingEntry>> QueryEntriesByBatchAsync(string batchId);
 }
 

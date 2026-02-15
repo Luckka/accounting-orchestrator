@@ -98,5 +98,41 @@ public class DynamoAccountingRepository : IAccountingRepository
         var resp = await _client.QueryAsync(req);
         return resp.Count > 0;
     }
+
+    public async Task<IEnumerable<AccountingEntry>> QueryEntriesByBatchAsync(string batchId)
+    {
+        if (string.IsNullOrEmpty(batchId)) return Enumerable.Empty<AccountingEntry>();
+
+        var req = new QueryRequest
+        {
+            TableName = _tableName,
+            IndexName = "BatchId-index",
+            KeyConditionExpression = "BatchId = :v_batch",
+            ExpressionAttributeValues = new Dictionary<string, AttributeValue>
+            {
+                [":v_batch"] = new AttributeValue { S = batchId }
+            }
+        };
+
+        var resp = await _client.QueryAsync(req);
+        if (resp == null || resp.Count == 0) return Enumerable.Empty<AccountingEntry>();
+
+        var list = new List<AccountingEntry>();
+        foreach (var item in resp.Items)
+        {
+            var entry = new AccountingEntry
+            {
+                EntryId = item.ContainsKey("EntryId") ? item["EntryId"].S : Guid.NewGuid().ToString(),
+                Account = item.ContainsKey("Account") ? item["Account"].S : "",
+                Amount = item.ContainsKey("Amount") ? decimal.Parse(item["Amount"].N) : 0m,
+                Date = item.ContainsKey("Date") ? DateTime.Parse(item["Date"].S) : DateTime.UtcNow,
+                Description = item.ContainsKey("Description") ? item["Description"].S : "",
+                BatchId = item.ContainsKey("BatchId") ? item["BatchId"].S : batchId
+            };
+            list.Add(entry);
+        }
+
+        return list;
+    }
 }
 

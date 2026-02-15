@@ -1,1 +1,9 @@
 .vs/
+/.aws-sam/
+/**/bin/
+/**/obj/
+*.user
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
